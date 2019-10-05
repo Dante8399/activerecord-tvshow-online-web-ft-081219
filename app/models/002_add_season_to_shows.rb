@@ -4,3 +4,4 @@ class AddSeasonToShows < ActiveRecord::Migration[5.2]
       t.string :season
     end
   end
+end
